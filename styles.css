@@ -52,4 +52,9 @@ body {
   background-color: grey;
 }
 
-
+@media (max-width:1144px){
+    .btn{
+      width:100px;
+      height: 90px;
+    }
+}
